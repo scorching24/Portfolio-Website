@@ -1,4 +1,4 @@
-# React + Vite
+# Portfolio Website
 
 Hello! I made this website as a way to learn Javascript XML as well as Tailwind CSS, while trying my best to create a sleek and modern design for my portfolio. I think this was great practice and I think it turned out amazing. Here's a list of some features my website contains:
 
